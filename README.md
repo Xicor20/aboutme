@@ -10,9 +10,7 @@ I work across the full analytics stack — from data extraction and cleaning to 
 
 - Product & business analytics
 - KPI design and tracking
-- Funnel / cohort analysis
 - Dashboarding & reporting automation
-- A/B testing & experiment analysis
 - Data quality validation
 
 ---
@@ -28,31 +26,13 @@ I work across the full analytics stack — from data extraction and cleaning to 
 - Matplotlib / Seaborn
 
 **Data & Workflow**
-- Excel (advanced)
-- Google BigQuery / PostgreSQL
+- Excel
+- MySQL
 - Jupyter Notebooks
 
 **Other**
 - Git / GitHub
 - Basic statistics & experimentation
-
----
-
-## Selected Work
-
-### [Project Name 1]
-- Built end-to-end analysis pipeline to evaluate **[problem statement]**
-- Identified **[key insight]** leading to **[business outcome / metric improvement]**
-- Tools: SQL, Python, Tableau
-
-### [Project Name 2]
-- Designed dashboard tracking **[KPI/system]**
-- Reduced reporting time by **[X]%** through automation
-- Tools: Power BI, SQL
-
-### [Project Name 3]
-- Conducted cohort / retention analysis on **[dataset/product]**
-- Found **[insight]** influencing **[decision]**
 
 ---
 
