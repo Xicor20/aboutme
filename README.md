@@ -56,8 +56,8 @@ I work across the full analytics stack — from data extraction and cleaning to 
 
 ## Contact
 
-- LinkedIn: [your-link]
-- Email: [your-email]
-- GitHub: [your-github]
+
+- Email: tusharpokhariyal@gmail.com
+
 
 ---
