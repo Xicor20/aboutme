@@ -19,7 +19,7 @@ I work across the full analytics stack — from data extraction and cleaning to 
 
 **Languages**
 - SQL
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy)
 
 **Visualization**
 - Tableau / Power BI
